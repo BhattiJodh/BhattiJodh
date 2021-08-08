@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BhattiJodh
+- 👋 Hi, I’m Jodh Bhatti, a mechanical engineering student hoping to learn and develeop my skills in coding, robotics, and machine learning
 - 👀 I’m interested in python develepment in Machine learning and computer vision systems
 - 🌱 I’m currently learning python, robotics, and machine learning
 - 💞️ I’m looking to collaborate on any python, robotics/mechatronics, or machine learning projects
